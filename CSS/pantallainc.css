@@ -1,0 +1,90 @@
+.body {
+    text-align: center;
+    background: #ecf0f1;
+    padding-top: 370px;
+    background-color: black;
+}
+
+.scape {
+    text-align: center;
+    padding-top: 250px;
+    color: mediumblue;
+}
+
+.boton {
+    text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    text-decoration: none;
+    font-family: 'helvetica neue', 'helvetica, sans-serif';
+    display: inline-block;
+    color: #fff;
+    background: #7f8c8d;
+    padding: 23px 43px;
+    white-space: nowrap;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 100px;
+    margin: 45px 80px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.verde {
+    padding: 10px 20px;
+    background: #00ff26;
+    box-shadow: 5px 15px 15px 5px #6e956a;
+}
+
+.rojo {
+    padding: 10px 20px;
+    background: #ff0101;
+    box-shadow: 5px 15px 15px 5px #e87d52;
+}
+
+.azul {
+    padding: 10px 20px;
+    background: #0138ff;
+    box-shadow: 5px 15px 15px 5px#47468f;
+}
+
+.boton {
+    text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    text-decoration: none;
+    font-family: 'helvetica neue', 'helvetica, sans-serif';
+    display: inline-block;
+    color: #fff;
+    background: #7f8c8d;
+    padding: 56px 60px;
+    white-space: nowrap;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 100px;
+    margin: 28px 55px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.autoverde {
+    padding: 10px 20px;
+    background: #00ff26;
+    box-shadow: 0px 0px 0px 5px #6e956a;
+}
+
+.autorojo {
+    padding: 10px 20px;
+    background: #ff0101;
+    box-shadow: 0px 0px 0px 5px #e87d52;
+}
+
+.autoazul {
+    padding: 10px 20px;
+    background: #0138ff;
+    box-shadow: 0px 0px 0px 5px #47468f;
+}

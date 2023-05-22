@@ -1,0 +1,40 @@
+::root {
+    colorPrincipal: blue;
+    tamanio: 200px;
+}
+
+p {
+    height: tamanio;
+    background: colorPrincipal;
+}
+
+.rojo {
+    background: darkred;
+    box-shadow: 0px 5px 0px 0px red;
+}
+
+.rojo:hover {
+    background: gold;
+    box-shadow: 0px 5px 0px 0px burlywood;
+}
+
+.rojo:active {
+    background: blue;
+    box-shadow: 15px 15px 15px 15px red;
+}
+
+#tablero {
+    margin-top: 10px;
+    background: url(wep), url(C:\Users\usuario\Pictures\proyecto);
+    box-shadow: 0 10px 10px -6px black;
+    border-radius: 3px 3px;
+    border-collapse: collapse;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    top: 10px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}

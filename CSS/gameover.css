@@ -1,0 +1,43 @@
+.body {
+    text-align: center;
+    padding-top: 620px;
+}
+
+.boton {
+    text-shadow: 5px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    text-decoration: none;
+    font-family: 'helvetica neue', 'helvetica, sans-serif';
+    display: inline-block;
+    color: #eeff00;
+    background: #000000;
+    padding: 20px 30px;
+    white-space: nowrap;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 500px;
+    margin: 0px 3px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    transform: translate(625px, 500px);
+}
+
+.boton:active {
+    background: blue;
+    box-shadow: 15px 15px 15px 15px red;
+}
+
+.img {
+    transform: translate(450px, -100px);
+    width: 600px;
+    height: 600px;
+}
+
+.mc {
+    color: #eeff00;
+    width: 100px;
+    height: 100px;
+}

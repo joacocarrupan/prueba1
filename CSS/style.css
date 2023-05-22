@@ -1,0 +1,45 @@
+.body {
+    text-align: center;
+    background: #ecf0f1;
+    padding-top: 370px;
+    background-color: black;
+}
+
+.boton {
+    text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    text-decoration: none;
+    font-family: 'helvetica neue', 'helvetica, sans-serif';
+    display: inline-block;
+    color: #fff;
+    background: #7f8c8d;
+    padding: 10px 20px;
+    white-space: nowrap;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 100px;
+    margin: 10px 3px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.autoazul {
+    padding: 50px 60px;
+    background: #1601fd;
+    box-shadow: 15px 15px 15px 15px #029affa7;
+}
+
+.autorojo {
+    padding: 50px 60px;
+    background: #ff0101;
+    box-shadow: 15px 15px 15px 15px #fc5a1a;
+}
+
+.autoamarillo {
+    padding: 50px 60px;
+    background: #ffff00;
+    box-shadow: 15px 15px 15px 15px #bac004;
+}
