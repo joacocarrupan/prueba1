@@ -13,15 +13,8 @@
     background: #000000;
     padding: 20px 30px;
     white-space: nowrap;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
     border-radius: 500px;
     margin: 0px 3px;
-    -webkit-transition: all 0.2s ease-in-out;
-    -ms-transition: all 0.2s ease-in-out;
-    -moz-transition: all 0.2s ease-in-out;
-    -o-transition: all 0.2s ease-in-out;
-    transition: all 0.2s ease-in-out;
     transform: translate(625px, 500px);
 }
 

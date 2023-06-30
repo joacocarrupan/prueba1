@@ -1,0 +1,129 @@
+body {
+    background-color: black;
+    color: aqua;
+}
+
+a {
+    font-size: 40px;
+    margin-left: 500px;
+    margin-right: 550px;
+    margin-top: 100px;
+    padding-top: -110px;
+    background-color: blue;
+    box-shadow: 10px 0px 30px 0px blue;
+    color: brown;
+    display: flex;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+a:hover {
+    cursor: crosshair;
+    color: red;
+    box-shadow: 10px 0px 30px 0px red;
+    display: flex;
+    text-decoration: none;
+    border: azure;
+    transform: translate(-10px, -10px);
+    opacity: 1;
+}
+
+@keyframes move {
+    from {
+        left: 0;
+    }
+    top {
+        transform: translate( 0px, 10px);
+    }
+}
+
+.con {
+    display: flex;
+    text-align: center;
+    font-size: 20px;
+    transform: translate(350px);
+}
+
+.left_0 {
+    margin: 10px;
+    position: relative;
+    animation: move 2s ease-in-out forwards;
+    background-color: aqua;
+}
+
+.left_1 {
+    margin: 10px;
+    position: relative;
+    animation: move 2s ease-in-out forwards;
+    background-color: rgb(55, 0, 255);
+}
+
+.left_2 {
+    margin: 10px;
+    position: relative;
+    animation: move 2s ease-in-out forwards;
+    background-color: rgb(55, 0, 255);
+}
+
+.left_3 {
+    margin: 10px;
+    position: relative;
+    animation: move 2s ease-in-out forwards;
+    background-color: rgb(55, 0, 255);
+}
+
+.left_4 {
+    margin: 10px;
+    position: relative;
+    animation: move 2s ease-in-out forwards;
+    background-color: rgb(55, 0, 255);
+}
+
+.left_5 {
+    margin: 10px;
+    position: relative;
+    animation: move 2s ease-in-out forwards;
+    background-color: rgb(55, 0, 255);
+}
+
+.left_6 {
+    margin: 10px;
+    position: relative;
+    animation: move 2s ease-in-out forwards;
+    background-color: rgb(55, 0, 255);
+}
+
+.left_7 {
+    margin: 10px;
+    position: relative;
+    animation: move 2s ease-in-out forwards;
+    background-color: rgb(55, 0, 255);
+}
+
+.left_8 {
+    margin: 10px;
+    position: relative;
+    animation: move 2s ease-in-out forwards;
+    background-color: rgb(55, 0, 255);
+}
+
+.left_9 {
+    margin: 10px;
+    position: relative;
+    animation: move 2s ease-in-out forwards;
+    background-color: rgb(55, 0, 255);
+}
+
+.left_10 {
+    margin: 10px;
+    position: relative;
+    animation: move 2s ease-in-out forwards;
+    background-color: rgb(55, 0, 255);
+}
+
+.left_11 {
+    margin: 10px;
+    position: relative;
+    animation: move 2s ease-in-out forwards;
+    background-color: rgb((55, 0, 255);
+}

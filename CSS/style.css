@@ -43,3 +43,37 @@
     background: #ffff00;
     box-shadow: 15px 15px 15px 15px #bac004;
 }
+
+.autoamarillo {
+    float: left;
+    grid-auto-flow: row(2);
+    grid-auto-flow: dense;
+    se acomoda acorde al espacio;
+    grid-template-columns: ;
+    arma el diseño de columnas;
+    flex-direction: ;
+    genero movimiento;
+    -ms-flex-direction: column(1) && row(1);
+    se va moviendo de a una columbna;
+    mas el row se mueve de a una columba y una fila;
+    -ms-flex-direction: column-reverse(1);
+    se mueve en direccion contraria -ms-grid-column-span;
+    sirve para ponerle el nombre al personaje y se mueve acorde al objeto;
+    -ms-grid-row-span;
+    se va moviendo la fila con vos(sirve para que tus monedas o objetos que guardes en el juego se muevan con el juego);
+}
+
+.classderecha:is(div, a) {
+    line-height: 5px;
+}
+
+.classizquierda :is(div, a) {
+    line-height: 10px;
+}
+
+es un selector y para que funcione esto tiene que estar en decendente osea(div y depues a);
+a::after {
+    : : content: counter(name);
+}
+
+cambia el contenido "hola";

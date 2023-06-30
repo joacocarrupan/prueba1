@@ -1,0 +1,30 @@
+.boton1 {
+    float: right;
+    text-shadow: 5px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    text-decoration: none;
+    font-family: 'helvetica neue', 'helvetica, sans-serif';
+    display: inline-block;
+    color: #eeff00;
+    background: #000000;
+    padding: 20px 30px;
+    white-space: nowrap;
+    border-radius: 500px;
+    margin: 0px 3px;
+    flex-direction: row;
+}
+
+.boton2 {
+    float: left;
+    text-shadow: 5px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    text-decoration: none;
+    font-family: 'helvetica neue', 'helvetica, sans-serif';
+    display: inline-block;
+    color: #eeff00;
+    background: #000000;
+    padding: 20px 30px;
+    white-space: nowrap;
+    border-radius: 500px;
+    margin: 0px 3px;
+}

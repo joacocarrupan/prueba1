@@ -1,0 +1,25 @@
+@keyframes animatearbol {
+    0% {
+        margin-left: -1000px;
+    }
+    100% {
+        margin-left: 100px;
+    }
+    150% {
+        margin-left: 150px;
+    }
+}
+
+.scene {
+    background-color: blue;
+    width: 100vh;
+    height: 100vw;
+}
+
+h1 {
+    font-family: "Press Start 2P";
+    text-align: center;
+    width: 100%;
+    font-size: 30px;
+    position: fixed;
+}
